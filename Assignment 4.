@@ -3,4 +3,4 @@ DOM- document object model. interface to a document and stipulates how that doc 
 HTML standard language to create web pages, XHTML is a family to xml. XML mark up language and file format for storing, transmitting and reconstructing arbitrary data.
 headings, paragraphs, lists, links.
 main/homepage located at top level.
-HTML, JPEG.
+best naming practices: camel casing, under scores and dashes.
